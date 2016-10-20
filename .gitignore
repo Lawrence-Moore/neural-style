@@ -1,0 +1,2 @@
+*.pyc
+vgg16_weights.npz
